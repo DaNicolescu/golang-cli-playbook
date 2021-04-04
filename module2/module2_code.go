@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime"
 )
-a
+
 func content() {
 	fmt.Println(runtime.GOOS)
 }
