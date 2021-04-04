@@ -34,5 +34,5 @@
 	"GOTOOLDIR": "/usr/local/go/pkg/tool/linux_amd64",
 	"GOVCS": "",
 	"GOVERSION": "go1.16.3",
-	"PKG_CONFIG": "pkg-config"
+	"PKG_CONFIG": "pkg-config"asas
 }
